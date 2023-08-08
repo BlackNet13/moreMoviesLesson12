@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string-array name="spinnerItems">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG 13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+
+</resources>
