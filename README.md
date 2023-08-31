@@ -44,7 +44,7 @@ There was also quite abit of enhancement done to the project. Below you can see 
     
   </tr>
   <tr>
-    <td>On selecting of any of the <br>movie list items you would be brough to the edit page</td>
+    <td>On selecting of any of the <br>movie list items you would <br>be brought to the edit page</td>
     <td>Confirmation screen for delete and <br>cancellation from the edit page</td>
   </tr>
 </table>
