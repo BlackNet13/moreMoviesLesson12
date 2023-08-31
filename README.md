@@ -51,9 +51,9 @@ There was also quite abit of enhancement done to the project. Below you can see 
 
 ## Features
 -Record movie details and store them locally using SQLite
--Retrieve and display image from the internet based on the link stored(Enhancement)
--Allow user to filter out the movie stored in the list based on the Rating
--Selecting the movie item will allow user to edit/delete the record for that item
+<br>-Retrieve and display image from the internet based on the link stored(Enhancement)
+<br>-Allow user to filter out the movie stored in the list based on the Rating
+<br>-Selecting the movie item will allow user to edit/delete the record for that item
 
 ## 🛠 Skills/Tools
 Java, Android Studio, Illustrator(creation of the splash screen icons)
