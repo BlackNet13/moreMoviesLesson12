@@ -21,16 +21,20 @@ There was also quite abit of enhancement done to the project. Below you can see 
     <td>
      <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/8e007375-ee52-41d9-a628-d487f905ec66" height = "500">
     </td>
+    </tr>
+  <tr>
+    <td>Splash Screen(Enhancement)</td>
+    <td>User Input, Takes in<br> image links(Enhancement)</td>
+    <td>Show Movie List, Display<br> Movie Image(Enhancement)</td>
+    <td>Filter based on genre</td>
+  </tr>
+  <tr>
     <td>
       <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/880428b1-f0b8-474e-93d8-f686e6e8922f" height = "500">
       <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/4126fde0-4bb6-4e48-b1a0-1dea68658394" height = "500">
     </td>
   </tr>
   <tr>
-    <td>Splash Screen(Enhancement)</td>
-    <td>User Input, Takes in<br> image links(Enhancement)</td>
-    <td>Show Movie List, Display<br> Movie Image(Enhancement)</td>
-    <td>Filter based on genre</td>
     <td>Confirmation screen for <br>delete and cancellation from the edit page</td>
   </tr>
 </table>
