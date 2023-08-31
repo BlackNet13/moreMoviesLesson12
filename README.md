@@ -5,7 +5,7 @@ There was also quite abit of enhancement done to the project. Below you can see 
 
 ## Screenshots
 
-# Final Product
+### Final Product
 <table>
   <tr>
     <td>
