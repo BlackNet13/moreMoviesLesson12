@@ -6,6 +6,8 @@ There was also quite abit of enhancement done to the project. Below you can see 
 ## Screenshots
 
 ### Task
+#### Lesson 12
+![Screenshot 2023-08-31 192627](https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/0f3f498e-eb68-4e82-8b33-185a6653cd63)
 
 
 ### Final Product
