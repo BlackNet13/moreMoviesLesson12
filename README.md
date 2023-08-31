@@ -7,8 +7,8 @@ There was also quite abit of enhancement done to the project. Below you can see 
 <table>
   <tr>
     <td>
-      
-  ![splash1](https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/093e3deb-7b80-4790-94a4-23d7dff55d3c)
+    <!--<img src="https://your-image-url.type" width="100" height="100">-->
+  <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/093e3deb-7b80-4790-94a4-23d7dff55d3c" height ="100">
   
 </td>
   </tr>
