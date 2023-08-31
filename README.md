@@ -29,7 +29,7 @@ There was also quite abit of enhancement done to the project. Below you can see 
     <td>Splash Screen(Enhancement)</td>
     <td>User Input, Takes in<br> image links(Enhancement)</td>
     <td>Show Movie List, Display<br> Movie Image(Enhancement)</td>
-    <td>Filter based on genre</td>
+    <td>Filter based on rating</td>
   </tr>
 </table>
 <table>
@@ -48,3 +48,15 @@ There was also quite abit of enhancement done to the project. Below you can see 
     <td>Confirmation screen for delete and <br>cancellation from the edit page</td>
   </tr>
 </table>
+
+## Features
+-Record movie details and store them locally using SQLite
+-Retrieve and display image from the internet based on the link stored(Enhancement)
+-Allow user to filter out the movie stored in the list based on the Rating
+-Selecting the movie item will allow user to edit/delete the record for that item
+
+## 🛠 Skills/Tools
+Java, Android Studio, Illustrator(creation of the splash screen icons)
+
+## Lessons Learned
+
