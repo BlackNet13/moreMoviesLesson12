@@ -16,6 +16,6 @@ There was also quite abit of enhancement done to the project. Below you can see 
   </tr>
   <tr>
     <td>Splash Screen(Enhancement)</td>
-    <td>User Input, <br>Takes in image links(Enhancement)</td>
+    <td>User Input, Takes in<br> image links(Enhancement)</td>
   </tr>
 </table>
