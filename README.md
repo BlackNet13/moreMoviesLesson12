@@ -28,6 +28,8 @@ There was also quite abit of enhancement done to the project. Below you can see 
     <td>Show Movie List, Display<br> Movie Image(Enhancement)</td>
     <td>Filter based on genre</td>
   </tr>
+</table>
+<table>
   <tr>
     <td>
       <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/880428b1-f0b8-474e-93d8-f686e6e8922f" height = "500">
