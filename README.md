@@ -61,7 +61,7 @@ There was also quite abit of enhancement done to the project. Below you can see 
 <br>-Selecting the movie item will allow user to edit/delete the record for that item
 
 ## 🛠 Skills/Tools
-Java, Android Studio, Illustrator(creation of the splash screen icons)
+Java, Android Studio, Illustrator(creation of the splash screen icons),
 <a href="https://www.android-arsenal.com/details/1/7959#!description">Android Arsenal-Material Dialog</a>
 
 
