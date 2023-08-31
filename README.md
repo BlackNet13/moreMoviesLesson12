@@ -5,6 +5,9 @@ There was also quite abit of enhancement done to the project. Below you can see 
 
 ## Screenshots
 
+### Task
+
+
 ### Final Product
 <table>
   <tr>
@@ -32,11 +35,16 @@ There was also quite abit of enhancement done to the project. Below you can see 
 <table>
   <tr>
     <td>
+      <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/fce22497-a207-4d31-9152-e608d583e5ba" height = "500">
+    </td>
+    <td>
       <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/880428b1-f0b8-474e-93d8-f686e6e8922f" height = "500">
       <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/4126fde0-4bb6-4e48-b1a0-1dea68658394" height = "500">
     </td>
+    
   </tr>
   <tr>
-    <td>Confirmation screen for <br>delete and cancellation from the edit page</td>
+    <td>On selecting of any of the <br>movie list items you would be brough to the edit page</td>
+    <td>Confirmation screen for delete and <br>cancellation from the edit page</td>
   </tr>
 </table>
