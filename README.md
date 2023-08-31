@@ -4,6 +4,8 @@ The reason why I choose to put this project on the project highlights is because
 There was also quite abit of enhancement done to the project. Below you can see the details for this project.
 
 ## Screenshots
+
+# Final Product
 <table>
   <tr>
     <td>
