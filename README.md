@@ -6,11 +6,11 @@ There was also quite abit of enhancement done to the project. Below you can see 
 ## Screenshots
 
 ### Task
-#### Lesson 11:
-![lesson11](https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/58aa4095-350f-47ba-88f1-b525559a06e6)
+#### Lesson 11: create an app that can store data for movies
+<img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/58aa4095-350f-47ba-88f1-b525559a06e6" height ="500">
 
 #### Lesson 12: adding dialog box for deletion and cancellation
-![lesson12](https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/0f3f498e-eb68-4e82-8b33-185a6653cd63)
+<img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/0f3f498e-eb68-4e82-8b33-185a6653cd63" height= "500">
 
 
 ### Final Product
