@@ -69,3 +69,4 @@ Java, Android Studio, Illustrator(creation of the splash screen icons),
 It was my first time dealing with dialog boxes but our lecturer mention that we can try and 
 implement custom material dialog boxes from android arsenal if we wanted to challenge ourselves, so I give it a shot.
 It was a small struggle at first to implement it but I manage to overcome it by patiently studying the documentation for the android arsenal dialog box.
+Another which I learn from doing this project was doing the splash screen that has a simple animation. 
