@@ -22,6 +22,6 @@ There was also quite abit of enhancement done to the project. Below you can see 
   <tr>
     <td>Splash Screen(Enhancement)</td>
     <td>User Input, Takes in<br> image links(Enhancement)</td>
-    <td>Show Movie List, Display Movie Image(Enhancement)</td>
+    <td>Show Movie List, Display<br> Movie Image(Enhancement)</td>
   </tr>
 </table>
