@@ -18,10 +18,14 @@ There was also quite abit of enhancement done to the project. Below you can see 
     <td>
 <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/bdbcb1d1-9155-47fa-839b-3ccc1334fd88" height ="500">
     </td>
+    <td>
+     <img src="https://github.com/BlackNet13/moreMoviesLesson12/assets/123053395/8e007375-ee52-41d9-a628-d487f905ec66" height = "500">
+    </td>
   </tr>
   <tr>
     <td>Splash Screen(Enhancement)</td>
     <td>User Input, Takes in<br> image links(Enhancement)</td>
     <td>Show Movie List, Display<br> Movie Image(Enhancement)</td>
+    <td>Filter based on genre</td>
   </tr>
 </table>
