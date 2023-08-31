@@ -1,5 +1,5 @@
 # Movie List 
-As you can see from the title this is one of the school projects I had to work on, this project spans across 2 lessons. 
+As you can see from the title of this repository this is one of the school projects I had to work on, this project spans across 2 lessons. 
 The reason why I choose to put this project on the project highlights is because this was one of the notable projects that has CRUD in it.
 There was also quite abit of enhancement done to the project. Below you can see the details for this project.
 
