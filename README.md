@@ -57,7 +57,6 @@ There was also quite abit of enhancement done to the project. Below you can see 
     </td>
   </tr>
   <tr>
-    
     <td>Confirmation screen for delete and <br>cancellation from the edit page</td>
   </tr>
 </table>
